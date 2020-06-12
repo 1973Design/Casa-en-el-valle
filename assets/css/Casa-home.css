@@ -1,4 +1,12 @@
 /*body*/
+html,body {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+    scroll-behavior: smooth;
+} 
+
 
 /*navigatie */
 
@@ -17,15 +25,84 @@
     background:#fff !important;
 }
 
+.home{
+    background:#f1f1f1;
+}
+
 /*-- slider --*/
-#slider{
-    overflow: hidden;
+.carousel-indicators li{
+    background-color:#57bcca;
 }
 
-#slider figure{
+.carousel-control-next-icon{
+    background-image: f138;
+}
+.carousel-control-next:hover, .carousel-control-next, .carousel-control-prev, .carousel-control-prev:hover{
+    color:#57bcca;
+    font-size: 2.5em;
+}
+
+
+/*---*/
+.features{
+    margin-top: 1.5em;
+}
+
+.features .feature{
+    background:#fff;
+    border-bottom: 7px solid #57bcca;
+    text-align: center;
+    padding-top: 34px;
+    transition: all 0.5s ease;
+    margin-bottom:2em;
+}
+
+.features .feature:hover .feature-icon{
+    border-color:#57bcca;
+    color:#57bcca;
+}
+
+.features .feature .feature-icon{
+    width: 142px;
+    height: 142px;
+    margin: 0 auto;
+    border: 2px solid #57bcca;
+    border-radius: 71px;
+    text-align: center;
+    font-size: 50px;
+    color: #57bcca;
+    line-height: 142px;
     position: relative;
-    width: 500%;
-    margin:0;
-    left:0;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
 
 }
+
+.features .feature .feature-icon:after{
+    content: '';
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid #57bcca;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    margin-left: -4px;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+
+}
+
+svg:not(:root).svg-inline--fa {
+    margin-top:0.9em;
+}
+
+.feature h3{
+    margin-top:0.5em;
+}
+
+.acc-desc{
+    margin-top: 0.8em;;
+}
+

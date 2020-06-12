@@ -1,7 +1,7 @@
 /* bootstrap css file */
 
-@import '../bootstrap/css/bootstrap.min.css';
-@import 'Casa-home.css';
-@import 'Casa-page.css';
+@import '../lib/bootstrap/css/bootstrap.min.css';
+@import 'casa-home.css';
+@import 'casa-page.css';
 @import 'tablet.css';
 @import 'mobile.css';
