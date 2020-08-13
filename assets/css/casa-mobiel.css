@@ -1,0 +1,16 @@
+/** mobile wijzigingen **/
+
+@media screen and (max-width: 576px) {
+
+    .navbar-fixed-top{
+        left:0;
+        right:0;
+    }
+
+  h2{
+      padding:0.8em 0em 0em 0.5em;
+  }
+
+    
+
+}

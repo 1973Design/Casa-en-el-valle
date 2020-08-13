@@ -6,22 +6,25 @@ html,body {
     overflow-x: hidden; 
     scroll-behavior: smooth;
     color:#4a4a4a;
+    font-family: 'Roboto', sans-serif;
 } 
 
 .container-fluid{
     padding-right:0px !important;
     padding-left:0px !important;
 }
-
+h1, h2,h3,h4{
+    font-family:'Montserrat', sans-serif;
+}
 h2,h3{
     
     text-align: center;
+    padding:1em;
 }
 
 h2{
-    color:#57bcca;
+    color:#c5de92;
     padding:1.5em 0em 0em 0.75em;
-    font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     font-size:3.5rem;
 }
@@ -33,9 +36,180 @@ h3{
    
     color:#efa25e;
 }
-
 h4{
-    padding:10px;
     color:#4a4a4a;
 }
 
+h4, h5{
+    padding:10px 0px 0px 10px;
+}
+
+/*-- list --*/
+
+ul{
+    list-style-type:none;
+    padding:0;
+    margin:-10px 0px 0px 10px;
+}
+
+
+
+li a, li a:hover{
+    text-decoration: none;
+}
+
+li a{
+    color:#fff;
+ 
+}
+
+li  a:hover{
+    color:#efa25e;
+}
+
+/*-- omgeving --*/
+
+
+#omgeving .omgeving-container-parent{
+    width: 100%;
+    margin: 20px 20px 20px 0px;
+    height: 200px;
+    xborder: 1px solid blue;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    font-family: 'Sriracha', cursive;
+  
+}
+
+#omgeving .omgeving-container-parent .omgeving-child{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+}
+
+.bg-one{
+    background-image: url(http://localhost:8080/casa-en-el-valle/images/omgeving/omgeving-wandelen.png);
+}
+
+.bg-two{
+    background-image: url(http://localhost:8080/casa-en-el-valle/images/omgeving/omgeving-granada.png);
+}
+.bg-three{
+    background-image: url(http://localhost:8080/casa-en-el-valle/images/omgeving/omgeving-strand.png);
+}
+
+.bg-four{
+    background-image: url(http://localhost:8080/casa-en-el-valle/images/omgeving/omgeving-alpujarras.png);
+}
+
+.bg-five{
+    background-image: url(http://localhost:8080/casa-en-el-valle/images/omgeving/omgeving-lecrin-vallei.png);
+}
+
+.bg-six{
+    background-image: url(http://localhost:8080/casa-en-el-valle/images/omgeving/omgeving-skieen.png);
+}
+
+.bg-huis-1{
+    background-image: url(http://localhost:8080/casa-en-el-valle/images/vakantiehuis/omgeving-vakantiehuis-buiten.png);
+}
+
+.bg-huis-2{
+    background-image: url(http://localhost:8080/casa-en-el-valle/images/vakantiehuis/omgeving-vakantiehuis-binnen.png);
+}
+
+.bg-huis-3{
+    background-image: url(http://localhost:8080/casa-en-el-valle/images/vakantiehuis/omgeving-vakantiehuis-bouw.png);
+}
+
+#omgeving .omgeving-container-parent .omgeving-child a {
+    display: none;
+    font-size: 35px;
+    color: #ffffff !important;
+    xfont-family: sans-serif;
+    text-align: center;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 50px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#omgeving .omgeving-container-parent:hover .omgeving-child, #omgeving .omgeving-container-parent:focus .omgeving-child{
+    -ms-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2); 
+}
+
+#omgeving .omgeving-container-parent:hover .omgeving-child:before, #omgeving .omgeving-container-parent:focus .omgeving-child:before{
+    display: block;
+}
+
+#omgeving .omgeving-container-parent:hover a, #omgeving .omgeving-container-parent:focus a{
+    display:block;
+}
+
+#omgeving .omgeving-container-parent .omgeving-child:before{
+    content: "";
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(52,73,94,0.75);
+}
+
+/* adres area */
+.adres-area{
+ background: #f2f2f2;
+ min-height: 250px;
+ font-family:'Playfair Display', serif;
+}
+
+.adres-area h2{
+    font-family:'Playfair Display', serif;
+    padding:0.5em 0em;
+    font-size: 2.5em;;
+}
+
+p a {
+    color:#a0d8d4;
+    text-decoration: none;
+    background: linear-gradient(to right, #32736E, #32736E 50%, #a0d8d4 50%);
+    overflow:hidden;
+    font-weight: 600;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+    transition: background-position 400ms ease;
+}
+
+p a:hover{
+    background-position: 0 100%;
+}
+
+strong{
+    color:#a0d8d4;
+}
+
+/** sub-footer **/
+
+.sub-footer ul li{
+    font-size: 0.8em;
+}
