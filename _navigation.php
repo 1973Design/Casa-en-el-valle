@@ -20,11 +20,16 @@
                 <a class="nav-link" href="prijzen-en-beschikbaarheid.php">Prijzen en beschikbaarheid</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Actueel</a>
+                <a class="nav-link" href="actueel-nieuws-andalusie.php">Tips</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="contact-melegis.php">Contact</a>
             </li>
         </ul>
     </div>
+    <ul class="language-link">
+        <li >
+                <a class="" href="en/index.php"><i class="fas fa-globe"></i> English</a>
+        </li>
+    </ul>
 </nav> <!-- navigatie stop-->

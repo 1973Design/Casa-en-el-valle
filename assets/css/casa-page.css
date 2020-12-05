@@ -43,6 +43,9 @@ h4{
 h4, h5{
     padding:10px 0px 0px 10px;
 }
+h5.card-title{
+    color:#efa25e;
+}
 
 /*-- list --*/
 
@@ -63,9 +66,16 @@ li a{
  
 }
 
-li  a:hover{
+ul.contentlist li a{
+    color:#4a4a4a;
+    font-weight: 700;
+}
+
+li  a:hover, ul.contentlist li a:hover{
     color:#efa25e;
 }
+
+
 
 /*-- omgeving --*/
 
@@ -74,7 +84,6 @@ li  a:hover{
     width: 100%;
     margin: 20px 20px 20px 0px;
     height: 200px;
-    xborder: 1px solid blue;
     overflow: hidden;
     position: relative;
     display: inline-block;
@@ -133,7 +142,6 @@ li  a:hover{
     display: none;
     font-size: 35px;
     color: #ffffff !important;
-    xfont-family: sans-serif;
     text-align: center;
     margin: auto;
     position: absolute;
@@ -170,7 +178,7 @@ li  a:hover{
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgba(52,73,94,0.75);
+    background-color: rgba(160,216,212,0.75);
 }
 
 /* adres area */
@@ -212,4 +220,77 @@ strong{
 
 .sub-footer ul li{
     font-size: 0.8em;
+}
+
+
+/** form **/
+form{
+    padding: 1em;
+    color:#4a4a4a;
+}
+
+from div {
+    margin-top:1em;
+}
+
+label{
+    display:inline-block;
+    text-align: left;
+    width:150px;
+}
+
+input, select, textarea{
+    font: 1em;
+    width: 500;
+    box-sizing: border-box;
+    border: 1px solid #a0d8d4;
+}
+
+input:focus, textarea:focus, select:focus{
+    border-color: #c5de92;
+    background-color:rgba(160,216,212, 0.2);
+}
+
+textarea{
+    vertical-align: top;
+    height: 10em;
+    resize: vertical;
+}
+.button{
+    padding-top: 1em;
+    margin-left: 510px;
+    
+}
+button{
+    background-color:#a0d8d4;
+    border-radius: 0.5em;
+    color: #f2f2f2;
+    font-weight: 400;
+    border: #a0d8d4 2px solid;
+    -webkit-box-shadow: 2px 2px 1px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 2px 2px 1px 0px rgba(0,0,0,0.1);
+    box-shadow: 2px 2px 1px 0px rgba(0,0,0,0.1);
+
+}
+.fa-envelope, .fa-phone, .fa-whatsapp{
+    color: #efa25e;
+}
+
+/** Calendar **/
+
+tr.light{
+    background-color:rgba(197, 222,146, 0.6);
+
+    
+
+}
+/** language **/
+ul.language-link li a{
+    color: rgba(0,0,0,.5);
+    margin: 0px 0px 0px 10px;
+    font-size: 0.8em;;
+}
+
+ul.language-link li a:hover{
+    color: #efa25e;
 }

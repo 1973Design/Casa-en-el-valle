@@ -71,7 +71,7 @@
                         </div>
                         <h3>Beschikbaar?</h3>
                         <p class="outline-left">La Casa en el Valle is het gehele jaar beschikbaar.<br/>
-                            <a href="vakantiespanje-beschikbaarheid.php" title="klik hier voor de beschikbaarheid van onze vakantie villa in Melegis">Klik hier voor de beschikbaarheid</a>.
+                            <a href="prijzen-en-beschikbaarheid.php" title="klik hier voor prijzen en beschikbaarheid van onze vakantie villa in Melegis"> Bekijk de beschikbaarheid en prijzen</a>.
 
                         </p>
                       </div>
@@ -94,7 +94,7 @@
                         </div>
                         <h3>Activiteiten</h3>
                         <p>Hou je van sport, cultuur, zon en zee dan zit je hier goed.<br/>
-                            <a href="activiteiten-andalusie-melegis.php">Lees meer over de activiteiten</a> </p>
+                            <a href="omgeving-lecrin-granada.php">Lees meer over de omgeving & activiteiten</a> </p>
                       </div>
                     </div>
                     <!-- feature 4-->

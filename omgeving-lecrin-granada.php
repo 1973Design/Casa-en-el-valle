@@ -30,7 +30,7 @@
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                   <div class="carousel-inner">
                     <div class="carousel-item active">
-                      <img class="d-block w-100" src="images/omgeving/lecrin-vallei-omgeving.jpg" alt="First slide">
+                      <img class="d-block w-100" src="images/omgeving/spaanse-kust.png" alt="Omgeving van Andalusie">
                     </div>
                   </div>
               </div>
@@ -43,6 +43,7 @@
                     <div class="">
                       <div class="row">
                         <div class="col-md-12">
+                        <p class="small"><a href="omgeving-lecrin-granada.php"> << Omgeving en activiteiten</a></p>
                           <h3>De omgeving en activiteiten</h3>
                         </div>
                       </div>
@@ -67,21 +68,21 @@
                       <div class="col-sm-4">
                         <div class="omgeving-container-parent first">
                           <div class="omgeving-child bg-one">
-                            <a href="#" class="">Wandelen</a>
+                            <a href="wandelen-andalusie.php" title="wandelen in Andalusie" class="">Wandelen</a>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-4">
                         <div class="omgeving-container-parent first">
                           <div class="omgeving-child bg-two">
-                            <a href="#" class="">Granada</a>
+                            <a href="omgeving-granada.php" class="">Granada</a>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-4">
                         <div class="omgeving-container-parent first">
                           <div class="omgeving-child bg-three">
-                            <a href="#" class="">Strand</a>
+                            <a href="costa-tropical.php" class="" title="costa tropical">Strand</a>
                           </div>
                         </div>
                       </div>
@@ -100,21 +101,21 @@
                         <div class="col-sm-4">
                           <div class="omgeving-container-parent first">
                             <div class="omgeving-child bg-four">
-                              <a href="#" class="">Alpujarras</a>
+                              <a href="alpujarras.php" class="" title="Alpujarras">Alpujarras</a>
                             </div>
                           </div>
                         </div>
                         <div class="col-sm-4">
                           <div class="omgeving-container-parent first">
                             <div class="omgeving-child bg-five">
-                              <a href="#" class="">Lecrin Vallei</a>
+                              <a href="lecrin-vallei.php" class="" title="lecrin vallei andalusie">Lecrin Vallei</a>
                             </div>
                           </div>
                         </div>
                         <div class="col-sm-4">
                           <div class="omgeving-container-parent first">
                             <div class="omgeving-child bg-six">
-                              <a href="#" class="">Skie&euml;n</a>
+                              <a href="wintersport-sierranevada.php" target="_blank" title="wintersport sierra nevada" class="">Skie&euml;n</a>
                             </div>
                           </div>
                         </div>
@@ -126,47 +127,9 @@
               <!--end section omgeving 2-->
               <!-- area formulier -->
            <section>
-             <div class="container">
-                <div class="col-md-12 mb-2">
-                    <div class="acc-desc">
-        
-                      <p>Heb jij ook zin in een vakantie in de mooie Lecrin Vallei? Waar je even terug ga in de tijd maar ook op een half uur rijden van wat meer hektiek, vul dan onderstaande
-                          formulier in.
-                      </p>
-                    </div>
-                    <form action="" method="post">
-                      <div>
-                        <label for="name">Naam</label>
-                        <input type="text" id="name" name="user_name" />
-                      </div>
-                      <div>
-                        <label for="surname">Achternaam</label>
-                        <input type="text" id="surname" name="sure_name" />
-                      </div>
-                      <div>
-                        <label for="mail">E-mail</label>
-                          <input type="email" id="mail" mail="user_mail" />
-                      </div>
-                      <div>
-                        <label for="name">Hoeveel mensen</label>
-                          <select name="amount people">
-                            <option value="4 personen">4 personen</option>
-                            <option value="5 personen">5 personen<option>
-                            <option value="6 personen" selected="selected">6 personen<option>
-                             <option value="7 personen">7 personen<option>
-                            <option value="8 personen">8 personen<option>
-                            <option value="9 personen">9 personen<option>
-                             <option value="10 personen">10 personen<option>
-                          </select>
-                      </div>
-                      <div>
-                        <label for="msg">Bericht:</label>
-                          <textarea id="msg" name="user_message"></textarea>
-                      </div>
-                    </form>
-                </div>
-             </div>
-          <section>
+           <?php include '_formulier.php';?> 
+             <!-- end form -->
+            <section>
               <div class="container-fluid">
                  <!-- sub footer -->
                  <?php include '_sub-footer.php';?> 
