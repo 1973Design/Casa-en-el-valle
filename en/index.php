@@ -58,7 +58,7 @@
               <div class="container">
                 <div class="intro">
                   <h2> The Lecrin Valley</h2>
-                  <h3>Holiday villa in Melegis, 30 minutes drive from the coast and town of Granad</h3>
+                  <h3>Holiday villa in Melegis, 30 minutes drive from the coast and town of Granada</h3>
                 </div>
                 <!-- start features-->
                 <div class="features">
@@ -132,7 +132,7 @@ La Casa en el Valle is available all year round.<br/>
                           </div>
                         <div class="col-md-6 mb-2">
                           <div class="acc-desc">
-                            <p>The Lecrin Valley </strong>, is located under Granada to the west of the Sierra Nevada. A quiet and unspoilt green valley, with several authentic Spanish white villages. You can enjoy walking
+                            <p>The Lecrin Valley </strong> is located under Granada to the west of the Sierra Nevada. A quiet and unspoilt green valley with several authentic Spanish white villages. You can enjoy walking
                                 along the orange and lemon trees. And enjoy the spectacular views of Lake Beznar and the peaks of the Sierra Nevada.  </p>
                           </div>
                         </div>
@@ -154,7 +154,7 @@ La Casa en el Valle is available all year round.<br/>
                     <div class="tab-content" id="nav-tabContent">
                       <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab"><img src="../images/algemeen/Lecrin_vallei-Granada-andalusie.png" width="50%"></div>
                       <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-                          <p>The Lecrin Valley consists of a number of villages called Talara, Mondujar, El Chite, Tablate, Melegis, Restabal, Pinos del valle, Salares, Conchar and Cozvijar. This is his authentic Spanish villages
+                          <p>The Lecrin Valley consists of a number of villages called Talara, Mondujar, El Chite, Tablate, Melegis, Restabal, Pinos del valle, Salares, Conchar and Cozvijar. These are authentic Spanish villages
                               where you experience the real Andalusia. The Lecrin Valley is a base for a day at the beach, hiking in the mountains of the Aplujarras and culture in the city of Granada. Returning to Melegis
                               imagine yourself in an oasis of peace.
 
@@ -162,7 +162,7 @@ La Casa en el Valle is available all year round.<br/>
                       <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
                         <strong> Granada: </strong> Alhambra, Generallife (gardens Alahambra) Arab neighborhood, the Albacin district, Granada Cathedral and of course all the nice terraces and shops<br/>
                          <strong>Strand:</strong> Solabre&ntilde;a, Playa Granada(Motril), Almu&ntilde;&eacute;car<br/>
-                         <strong>Sierra Nevada:</strong> Lanjar&oacute;n, Pampeneira, Bub&iacute;on, Capileira, Pradollana(winter - skie&euml;n)
+                         <strong>Sierra Nevada:</strong> Lanjar&oacute;n, Pampeneira, Bub&iacute;on, Capileira, Pradollana(winter - skiing)
 
                       </div>
                     </div>

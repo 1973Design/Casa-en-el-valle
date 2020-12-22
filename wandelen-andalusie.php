@@ -44,9 +44,9 @@
                           <p class="small"><a href="omgeving-lecrin-granada.php"> << Omgeving en activiteiten</a></p>
                           <h3>Wandelen</h3>
                           <p>
-                            Een relaxe vakantie combineren met wat activeiten dat kan wanneer je in <strong> La casa en el Valle</strong> zit. Het huis ligt in de prachtige Lecrin Vallei
-                            waar vanuit je tal van wandelingen kunt ondernemen. Daarnaast zijn er ook diverse wandelroutes in de Alpujarras. Dit allemaal te bereiken met een korte autorit.
-                            Wandelroutes varieren tot licht, middelzwaar en zwaar. De wandelingen zijn het beste te doen in het voorjaar of najaar. Mocht je er toch voor kiezen om het in de warmere maanden juli en augustus te doen, vertrek 
+                            Een relaxe vakantie combineren met wat activeiten dat kan wanneer je in <strong> La casa en el Valle</strong> je vakantie viert. Het huis ligt in de prachtige Lecrin Vallei
+                            waar vanuit je tal van wandelingen kunt ondernemen. Daarnaast zijn er ook diverse wandelroutes in de Alpujarras te ondernemen, dit allemaal te bereiken binnen een rij afstand van 10 minuten.
+                            Wandelroutes varieren tot licht, middelzwaar en zwaar. De wandelingen zijn het beste te doen in het voorjaar of najaar. Mocht je er toch voor kiezen om het in de warmere maanden juli en augustus te gaan wandelen, vertrek 
                             dan vroeg in de ochtend.<br/>
 
                             Hieronder sommen we een aantal verschillende wandelroutes op.
@@ -63,7 +63,7 @@
                             <div class="card-body">
                               <h3>Meleg&#236;s Ruta del Azahar</h3>
                               <p class="card-text">Een wandeling tussen Melegís en Restábal door sinaasappel- ,en citroenboomgaarden, langs de rivier uit de Sierra Nevada die via acequias uitkomt bij het Beznar stuwmeer.</p>
-                              <p>Moeilijkheidsgraad:licht<br/>
+                              <p>Moeilijkheidsgraad: licht<br/>
                                   Tijd: 1,5 uur</br>
                                   Afstand: 5 km<br/>
                                 Stijling: geen<br/>
@@ -77,7 +77,7 @@
                             <div class="card-body">
                               <h3>Los Cahoros de Monachil</h3>
                               <p class="card-text">Een wandeling over hangbruggen en kloof in de Sierra Nevada met uitzicht op de stad Granada. De route is circulair.</p>
-                              <p>Moeilijkheidsgraad:licht<br/>
+                              <p>Moeilijkheidsgraad: licht<br/>
                                   Tijd: 3 uur</br>
                                   Afstand: 8 km<br/>
                                 Stijling: van 805m naar 1123m <br/>
@@ -90,8 +90,8 @@
                             <img class="card-img-top" src="images/omgeving/wandelen/Barranco-de-Poqueira.jpg" alt="barranco de poqueira">
                             <div class="card-body">
                               <h3>Barranco de poqueira</h3>
-                              <p class="card-text">De route start in Pampaneira en loopt via Bubion naar Capileira, maar je kunt ook in een van de dorpen beginnen. De routebeschrijving begint en eindigt namelijk steeds op het kerkplein.</p>
-                              <p>Moeilijkheidsgraad:middelzwaar<br/>
+                              <p class="card-text">De route start in Pampaneira en loopt via Bubion naar Capileira. Maar je kunt ook in een van de dorpen beginnen. De routebeschrijving begint en eindigt namelijk steeds op het kerkplein.</p>
+                              <p>Moeilijkheidsgraad: middelzwaar<br/>
                                   Tijd: 4,5 uur</br>
                                   Afstand: 8,8 km<br/>
                                 Stijling: van 1062 naar 1432<br/>
@@ -105,8 +105,8 @@
                             <img class="card-img-top" src="images/omgeving/wandelen/ruta-niguelas.jpg" alt="route Niguelas">
                             <div class="card-body">
                               <h3>Route Nig&#252;elas</h3>
-                              <p class="card-text">Een wandeling over een verhard bergpad en kronkelende ezelpaadjes met mooie uitzichten over Niqûelas,de pijnboombossen, amandel- en olijfboomgaarden.</p>
-                              <p>Moeilijkheidsgraad:middelzwaar<br/>
+                              <p class="card-text">Een wandeling over een verhard bergpad en kronkelende ezelpaadjes met mooie uitzichten over Niqûelas, de pijnboombossen, amandel- en olijfboomgaarden.</p>
+                              <p>Moeilijkheidsgraad: middelzwaar<br/>
                                   Tijd: 3 uur</br>
                                   Afstand: 8 km<br/>
                                 Stijling: van 940m naar 1400m<br/>
@@ -119,9 +119,9 @@
                           <div class="card" style="width: 18rem;">
                             <img class="card-img-top" src="images/omgeving/wandelen/acequias-del-poqueira.jpg" alt="acequias del poqueira">
                             <div class="card-body">
-                              <h3>Acequias del Poqueira</h3>
+                              <h3>Acequias del poqueira</h3>
                               <p class="card-text"> Deze wandeling begint en eindigt in het pittoreske witte dorpje Capileira. Dit dorp dateert uit 1562 en is een van de mooiste witte dorpen van Spanje.</p>
-                              <p>Moeilijkheidsgraad:zwaar<br/>
+                              <p>Moeilijkheidsgraad: zwaar<br/>
                                   Tijd: 6-8 uur</br>
                                   Afstand: 15,9 km<br/>
                                 Stijling: van 1464m naar 2141m<br/>

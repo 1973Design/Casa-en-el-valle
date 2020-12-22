@@ -3,7 +3,7 @@
                     <div class="acc-desc">
         
                       <p>Heb jij ook zin in een vakantie in de mooie Lecrin Vallei met op de achtergrond het Sierra Nevada gebergte? Waar je terug gaat in de tijd maar ook op een half uur rijden van de playas en de stad Granada, vul dan onderstaande
-                          formulier in.
+                          formulier in. We nemen z.s.m. contact op.
                       </p>
                     </div>
                     <form action="form-to-email.php" method="post">

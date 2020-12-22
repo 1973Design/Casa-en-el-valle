@@ -12,8 +12,8 @@
             <h5>Algemeen</h5>
             <ul>
                 <li><i class="fas fa-link"></i><a href="faq-vakantiehuis.php"> FAQ</a></li>
-                <li><i class="fas fa-link"></i><a href="#">Privacystatement</a></li>
-                <li><i class="fas fa-link"></i><a href="handigelinks-vakantiehuis.php"> Usefull links</a></li>
+                <li><i class="fas fa-link"></i><a href="privacystatement.php">Privacystatement</a></li>
+                <li><i class="fas fa-link"></i><a href="useful-links-holidayhouse.php"> Usefull links</a></li>
             </ul>
            
         </div>

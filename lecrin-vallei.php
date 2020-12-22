@@ -46,7 +46,7 @@
                       <p>
                           <strong> La Casa en el Valle</strong> is gelegen in de Lecrin Vallei, ook wel de vallei van geluk genoemd. Het ligt tussen Granada en de Costa Tropical.  Een rustige en ongerepte groene vallei, met diverse authentieke Spaanse witte dorpjes. 
                             Je kunt er urenlang ronddwalen langs sinaasappel- en citroenbomen. En genieten ​​van de spectaculaire uitzichten over het meer van Beznar en de toppen van de Sierra Nevada.
-                            In de typisch Andalusische witte dorpen als El Padul, Durcál en Nigüelas die zich in de Lecrin vallei bevinden, lijkt het alsof de tijd heeft stilgestaan.
+                            In de typisch andalusische witte dorpen als El Padul, Durcál en Nigüelas die zich in de Lecrin vallei bevinden, lijkt het alsof de tijd heeft stilgestaan.
                         </p>
                     </div>
                   </div>
@@ -57,7 +57,7 @@
                         <img class="card-img-top" src="images/omgeving/lecrin/valle-de-lecrin.jpg" alt="valle de lecrin">
                         <div class="card-body">
                             <h3>De vallei</h3>
-                            <p class="card-text">Sinaasappel-en citroenbomen, wijnranken, velden vol met allerlei gewassen en boomgaarden met olijf-en amandelbomen maken deel uit van het altijd groene landschap van deze vruchtbare vallei. 
+                            <p class="card-text">Sinaasappel- en citroenbomen, wijnranken, velden vol met allerlei gewassen en boomgaarden met olijf- en amandelbomen maken deel uit van het altijd groene landschap van deze vruchtbare vallei. 
                             Lecrin biedt een geweldige uitzicht op de Sierra Nevada en het stuwmeer van Beznar. Vanwege de overvloed aan water en het uitstekende klimaat zijn de flora en fauna van de vallei ook zeer gevarieerd, 
                             met enkele subtropische soorten, die in andere delen van de wereld op deze hoogte moeilijk te vinden zijn.
                             
@@ -72,8 +72,8 @@
                         <img class="card-img-top" src="images/omgeving/lecrin/melegis.png" alt="Melegis Lecrin vallei">
                         <div class="card-body">
                           <h3>Melegis</h3>
-                          <p class="card-text"><strong>La Casa en el Valle</strong> is gelegen in het witte dorpje Melegis richting Restabal(het volgende dorpje). In het dorp heerst een oase van rust maar 
-                          voor het huis kan je heerlijk eten bij Los Naranjos, een bekend restaurant onder de lokale bevolking. La Casa en el Valle is een heerlijk terugval basis na een dag stad, strand of wandelen.
+                          <p class="card-text"><strong>La Casa en el Valle</strong> is gelegen in het witte dorpje Melegis richting Restabal (het volgende dorpje). In het dorp heerst een oase van rust maar 
+                          voor het huis is gelegen het restaurant Los Naranjos, een bekend restaurant onder de lokale bevolking, waarje heerlijk eten. La Casa en el Valle is een heerlijk terugval basis na een dag stad, strand of wandelen.
                           </p>
                         </div>
                       </div>

@@ -44,11 +44,11 @@
                         <p class="small"><a href="omgeving-lecrin-granada.php"> << Surroundings and activities</a></p>
                           <h3>Wintersport</h3>
                           <p>Did you know that you can ski in the Sierra Nevada in the winter months? And what could be more fun than combining a day at the coast with a day in the snow.
-                            The village of Pradollano (2100 m) is a 1 hour drive from <strong> La Casa en el Valle </strong>. When you are in the village you are a true ski resort. from
-                            own experience, we, as experienced skiers / snowboarders, can say that it is very worthwhile. With 107 km of slopes, the area does not detract from the spots
+                            The village of Pradollano (2100 m) is a 1 hour drive from <strong> La Casa en el Valle </strong>. When you are in the village you are in a true ski resort. From
+                            own experience, we, as experienced skiers / snowboarders, can say that it is very worthwhile. With 107 km of slopes the area does not detract from the spots
                             in the alps. In addition, it is a snow sure resort with the highest peak at 3300 meters. There are a total of 124 ski slopes: 19 green, 41 blue, 50 red and 7 black. In total
-                            107 km of snow fun. the ski season starts at the end of November and continues until the first week of May. In Pradollano are many shops for ski and snowboard rental and there are many
-                            from ski and snowboard schools. Below we have listed some information.
+                            107 km of snow fun. The ski season starts at the end of November and continues until the first week of May. In Pradollano are many shops for ski and snowboard rental and there are many
+                             ski- and snowboard schools. Below we have listed some information.
 
                             <ul class="contentlist">
                               <li><a href="https://sierranevada.es/en/" target="_blank">Information skiresort</a></li>

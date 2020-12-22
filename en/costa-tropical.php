@@ -44,9 +44,9 @@
                     <p class="small"><a href="omgeving-lecrin-granada.php"> << Surroundings and activities</a></p>
                       <h3>Costa Tropical</h3>
                       <p>
-                      30 minutes south of <strong> La Casa en el Valle </strong> is the Costa Tropical. The Costa Tropical is located between the Costa del Sol and the Costa Almeria, from Almu&#241;&#233;car
-                          to Almer&#37;a. The Costa tropical owes its name to the fact that many tropical fruits are grown in this area, such as mango, avocado, banana and papaya.
-                          The climate is mild here and it rains less than on the Costa del Sol. In winter you will experience a temperature difference of 5 degrees compared to the valley.
+                      30 Minutes south of <strong> La Casa en el Valle </strong> is the Costa Tropical. The Costa Tropical is located between the Costa del Sol and the Costa Almer&#237;a from Almu&#241;&#233;car
+                          to Almer&#237;a. The Costa tropical owes its name to the fact that many tropical fruits are grown in this area such as mango, avocado, banana and papaya.
+                          The climate is mild and it rains less than on the Costa del Sol. In winter you will experience a temperature difference of 5 degrees compared to the valley.
                           In the summer you can cool down in the water and in the winter it feels spring-like.
                         </p>
                     </div>
@@ -59,7 +59,7 @@
                         <div class="card-body">
                             <h3>Playa Granada</h3>
                             <p class="card-text">
-                            Playa Granada is the nearest beach from <strong> La Casa en el Valle </strong>. It is quiet here, but there are several beach bars and opportunities
+                            Playa Granada is the nearest beach from <strong> La Casa en el Valle </strong>. It is quiet here but there are several beach bars and opportunities
                               to practice water sports.
                             </p>
                              
@@ -72,8 +72,8 @@
                         <img class="card-img-top" src="../images/omgeving/strand/solabrena.JPG" alt="Solabrena costa tropical">
                         <div class="card-body">
                           <h3>Salobre&#241;a</h3>
-                          <p class="card-text">Salobre&#241; a is to the right of Motril. It is a small, pleasant seaside town. On the beach there are a few nice fish restaurants, but you were not allowed to
-                            keeping fish there are also plenty of alternatives. The youth here like to jump off the rock that is partly in the water. A walk to the Arab castle is also worthwhile.
+                          <p class="card-text">Salobre&#241;a is to the right of Motril. It is a small pleasant seaside town. On the beach there are a few nice fish restaurants but there are also
+                             there are also plenty of alternatives. The youth here likes to jump off the rock that is partly in the water. A walk to the Arab castle is also worthwhile.
                           </p>
                         </div>
                       </div>
@@ -84,7 +84,7 @@
                         <div class="card-body">
                           <h3>Almu&#241;&#233;car</h3>
                           <p class="card-text">Almu&#241;&#233;car is the first city seaside resort. You will find a wide boulevard along the extensive beach with various beach pavilions, terraces and excellent restaurants.
-                            In the old town, the Moorish influences are clearly visible with narrow streets and remains of the Moorish fortress.</p>
+                            In the old town the Moorish influences are clearly visible with narrow streets and remains of the Moorish fortress.</p>
                              
                         </div>
                       </div>

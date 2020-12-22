@@ -5,9 +5,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="">
         <meta name="author" content="">
-        <script defer src="assets/lib/fontawesome/js/all.js"></script>
+        <script defer src="../assets/lib/fontawesome/js/all.js"></script>
  
-        <link rel="stylesheet" href="assets/css/style.css" />
+        <link rel="stylesheet" href="../assets/css/style.css" />
         <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,500;1,400;1,500&family=Roboto&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,500;1,400;1,500&family=Montserrat:wght@300;400;500;600&family=Roboto&display=swap" rel="stylesheet">
     </head>
@@ -28,7 +28,7 @@
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                   <div class="carousel-inner">
                     <div class="carousel-item active">
-                      <img class="d-block w-100" src="images/omgeving/granada/granada-omgeving.png" alt="Granada stad">
+                      <img class="d-block w-100" src="../images/omgeving/granada/granada-omgeving.png" alt="Granada stad">
                     </div>
                   </div>
               </div>
@@ -41,13 +41,13 @@
                 <div class="">
                   <div class="row">
                     <div class="col-md-12">
-                    <p class="small"><a href="omgeving-lecrin-granada.php"> << Omgeving en activiteiten</a></p>
+                    <p class="small"><a href="omgeving-lecrin-granada.php"> << Surroundings and activities</a></p>
                       <h3>Granada</h3>
                       <p>
-                          Wanneer je het over Granada hebt, dan heb je het over het Alhambra(Unesco werelderfgoed). De moorse historie maar vooral ook een meltkroes van zowel
-                          katholieke als moslim invloeden. De oude binnenstad en de echte andalusische intieme sfeer zijn kenmerkend voor de stad. Vanuit <strong>la Casa en el Valle</strong> is Granada 
-                          met de auto binnen een half uur te bereiken. In Granada combineer je cultuur met shoppen en lekker eten.<br/>
-                          Waar kan je in Granada allemaal naar toe?
+                          When you talk about Granada you are talking about the Alhambra (Unesco World Heritage). The Moorish history but also a melting pot of both
+                          Catholic and Muslim influences. The old town and the real Andalusian intimate atmosphere are characteristic of the city. From <strong> la Casa en el Valle </strong> Granada is
+                          reachable by car within half an hour. In Granada you combine culture with shopping and good food. <br/>
+                          Where can you go in Granada?
 
                         </p>
                     </div>
@@ -56,34 +56,34 @@
                   <div class="row mb-2">
                     <div class="col-md-3 mr-3">
                       <div class="card" style="width: 18rem;">
-                        <img class="card-img-top" src="images/omgeving/granada/omgeving-granada.png" alt="Alhambra">
+                        <img class="card-img-top" src="../images/omgeving/granada/omgeving-granada.png" alt="Alhambra">
                         <div class="card-body">
                             <h3>Alhambra</h3>
-                            <p class="card-text">Het Alhambra (Arabisch: Rode Paleis) is een middeleeuws paleis en fort van de Moorse heersers van het Koninkrijk Granada 
-                                in Andalusië (Zuid-Spanje). Het bevindt zich op een heuvelachtig plateau aan de zuidoostelijke grens van de stad Granada.</p>
-                              <p>Reserver van te voren tickets:<a href="https://tickets.alhambra-patronato.es/en/tickets-alhambra-general-2/"> tickets Alhambra</a></p>
+                            <p class="card-text">The Alhambra (Arabic: Red Palace) is a medieval palace and fortress of the Moorish rulers of the Kingdom of Granada
+                                in Andalusia (southern Spain). It is located on a hilly plateau on the southeastern border of the city of Granada. </p>
+                              <p> Reserve tickets in advance:<a href="https://tickets.alhambra-patronato.es/en/tickets-alhambra-general-2/"> tickets Alhambra</a></p>
                               
                         </div>
                       </div>
                     </div>
                     <div class="col-md-3 mr-3">
                       <div class="card" style="width: 18rem;">
-                        <img class="card-img-top" src="images/omgeving/granada/sacromontegranadacuevas.jpg"" alt="Sacromonte Granada">
+                        <img class="card-img-top" src="../images/omgeving/granada/sacromontegranadacuevas.jpg"" alt="Sacromonte Granada">
                         <div class="card-body">
                           <h3>Sacromonte</h3>
-                          <p class="card-text">Sacromonte is de (vroegere) zigeunerwijk waar de gitanos wonen en vooral bekend om de grotwoningen en de Flamenco.
-                              De wijk ligt hoog in de stad achter het Alhambra. Het is dus wel een aardige tippel omhoog maar je kan ook de bus of taxi nemen. Sacromonte ligt hoger en ten oosten
-                              van de wijk Albaicin.
+                          <p class="card-text">Sacromonte is the (former) district which gypsy Gitanos live and known for its cave houses and flamenco.
+                              The district is located high in the city behind the Alhambra. So it is a nice walk up but you can also take the bus or taxi. Sacromonte is higher and east
+                              from the Albaicin district.
                           </p>
                         </div>
                       </div>
                     </div>
                     <div class="col-md-3 mr-3 mb-2">
                       <div class="card" style="width: 18rem;">
-                        <img class="card-img-top" src="images/omgeving/granada/granada-albayzin.jpg" alt="Albayzin Granada">
+                        <img class="card-img-top" src="../images/omgeving/granada/granada-albayzin.jpg" alt="Albayzin Granada">
                         <div class="card-body">
                           <h3>Albaicin</h3>
-                          <p class="card-text">Albaicín is de oude Moorse wijk van de Spaanse stad Granada. De wijk ligt op een heuvel recht tegenover het Alhambra dat met de wijk is verbonden via een aantal bruggen over de rivier Darro. Albaicín bestaat uit een doolhof van vele typische smalle straatjes en pleintjes en witgekalkte huizen.</p>
+                          <p class="card-text">Albaicín is the old Moorish quarter of the Spanish city of Granada. The district is located on a hill right in front of the Alhambra which is connected to the district by a number of bridges over the river Darro. Albaicín consists of a maze of many typical narrow streets and squares and whitewashed houses.</p>
                              
                         </div>
                       </div>
@@ -94,23 +94,25 @@
                   <div class="row mt-2 mb-2">
                     <div class="col-md-4  mt-2">
                       <div class="card" style="width: 18rem;">
-                        <img class="card-img-top" src="images/omgeving/granada/generalife-granada.jpg" alt="Generalife">
+                        <img class="card-img-top" src="../images/omgeving/granada/generalife-granada.jpg" alt="Generalife">
                           <div class="card-body">
                             <h3>Generalife</h3>
-                            <p class="card-text">Dit zijn de weelderige tuinen van het Alhambra. Deze zijn zo groot dat je er uren in rond kunt lopen. In de lente
-                              zijn de tuinen op zijn mooist. Er zijn dan vele kleurrijke bloembedden en er hangt een parfum van geuren.
+                            <p class="card-text">
+These are the lush gardens of the Alhambra. These are so big that you can walk around in them for hours. In spring
+                              the gardens are at their best. There are many colorful flower beds and a perfume of scents.
                               </p>
                         </div>
                       </div>
                     </div>
                     <div class="col-md-4  mt-2">
                       <div class="card" style="width: 18rem;">
-                        <img class="card-img-top" src="images/omgeving/granada/Granada-Cathedral.jpg" alt="Granada Kathedraal">
+                        <img class="card-img-top" src="../images/omgeving/granada/Granada-Cathedral.jpg" alt="Granada Kathedraal">
                         <div class="card-body">
-                            <h3>Granada Kathedraal</h3>
-                              <p class="card-text">Dit magnifieke gebouw, gebouwd bovenop de moskee van Granada, is de op een na grootste kathedraal van Spanje.
+                            <h3>Granada Cathedral</h3>
+                              <p class="card-text">
+Built on top of the Mosque of Granada at the beginning of the 16th century this magnificent building is Spain's second largest cathedral.
 
-Het werd gebouwd nadat Granada in 1492 door de christenen was heroverd. De fundamenten zijn dan ook gotisch, ook al zijn de hoofdstructuur en het interieur uit de renaissance.
+It was built during a transition in fashion so the foundations are Gothic even though the main structure and interior are from the Renaissance.
                               </p>
                           </div>
                       </div>
@@ -134,8 +136,8 @@ Het werd gebouwd nadat Granada in 1492 door de christenen was heroverd. De funda
       </main>
 
           <!-- Bootstrap core JavaScript -->
-          <script src="assets/lib/jquery/jquery-3.3.1.slim.min.js "></script>
-          <script src="assets/lib/bootstrap/js/bootstrap.min.js "></script>
-          <script defer src="assets/js/casa-valle.js"></script>
+          <script src="../assets/lib/jquery/jquery-3.3.1.slim.min.js "></script>
+          <script src="../assets/lib/bootstrap/js/bootstrap.min.js "></script>
+          <script defer src="../assets/js/casa-valle.js"></script>
     </body>
 </html>

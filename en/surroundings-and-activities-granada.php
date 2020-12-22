@@ -5,9 +5,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="">
         <meta name="author" content="">
-        <script defer src="assets/lib/fontawesome/js/all.js"></script>
+        <script defer src="../assets/lib/fontawesome/js/all.js"></script>
  
-        <link rel="stylesheet" href="assets/css/style.css" />
+        <link rel="stylesheet" href="../assets/css/style.css" />
         <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,500;1,400;1,500&family=Roboto&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,500;1,400;1,500&family=Montserrat:wght@300;400;500;600&family=Roboto&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Roboto&display=swap" rel="stylesheet">
@@ -30,7 +30,7 @@
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                   <div class="carousel-inner">
                     <div class="carousel-item active">
-                      <img class="d-block w-100" src="images/omgeving/spaanse-kust.png" alt="Omgeving van Andalusie">
+                      <img class="d-block w-100" src="../images/omgeving/spaanse-kust.png" alt="Surroundings of Andalusie">
                     </div>
                   </div>
               </div>
@@ -43,15 +43,15 @@
                     <div class="">
                       <div class="row">
                         <div class="col-md-12">
-                        <p class="small"><a href="omgeving-lecrin-granada.php"> << Omgeving en activiteiten</a></p>
+                        <p class="small"><a href="omgeving-lecrin-granada.php"> << Surroundings and activities</a></p>
                           <h3>De omgeving en activiteiten</h3>
                         </div>
                       </div>
                       <div class="row">
                         <div class="col-md-12 mb-2">
                           <div class="acc-desc">
-                            <p><strong>La casa en el valle</strong> is de perfecte uitvalsbasis voor een heerlijke vakantie! De rust die er heerst en de diverse uitstapjes die je in de omgeving kunt maken, maakt dit de perfecte locatie voor elk wat wils.
-                              Hieronder hebben we een kleine opsomming gemaakt van de mogelijkheden. Maar ook in het huis zelf ligt verschillende informatie en boekjes die tijdens de vakantie geraadpleegd mogen worden.
+                            <p><strong> La casa en el valle </strong> is the perfect base for a wonderful holiday! The tranquility that reigns and the various trips you can make in the area makes this the perfect location for everyone.
+                              Below we have made a small summary of the possibilities. But also in the house itself there are various information booklets that can be consulted during the holiday.
                              </p>
                           </div>
                         </div>
@@ -68,21 +68,21 @@
                       <div class="col-sm-4">
                         <div class="omgeving-container-parent first">
                           <div class="omgeving-child bg-one">
-                            <a href="wandelen-andalusie.php" title="wandelen in Andalusie" class="">Wandelen</a>
+                            <a href="walk-andalusie.php" title="wandelen in Andalusie" class="">To walk</a>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-4">
                         <div class="omgeving-container-parent first">
                           <div class="omgeving-child bg-two">
-                            <a href="omgeving-granada.php" class="">Granada</a>
+                            <a href="area-granada.php" class="">Granada</a>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-4">
                         <div class="omgeving-container-parent first">
                           <div class="omgeving-child bg-three">
-                            <a href="costa-tropical.php" class="" title="costa tropical">Strand</a>
+                            <a href="costa-tropical.php" class="" title="costa tropical">Beach</a>
                           </div>
                         </div>
                       </div>
@@ -108,14 +108,14 @@
                         <div class="col-sm-4">
                           <div class="omgeving-container-parent first">
                             <div class="omgeving-child bg-five">
-                              <a href="lecrin-vallei.php" class="" title="lecrin vallei andalusie">Lecrin Vallei</a>
+                              <a href="lecrin-vallei.php" class="" title="lecrin vallei andalusie">Lecrin Valley</a>
                             </div>
                           </div>
                         </div>
                         <div class="col-sm-4">
                           <div class="omgeving-container-parent first">
                             <div class="omgeving-child bg-six">
-                              <a href="wintersport-sierranevada.php" target="_blank" title="wintersport sierra nevada" class="">Skie&euml;n</a>
+                              <a href="wintersport-sierranevada.php" target="_blank" title="wintersport sierra nevada" class="">To skie</a>
                             </div>
                           </div>
                         </div>
@@ -141,8 +141,8 @@
       </main>
 
           <!-- Bootstrap core JavaScript -->
-          <script src="assets/lib/jquery/jquery-3.3.1.slim.min.js "></script>
-          <script src="assets/lib/bootstrap/js/bootstrap.min.js "></script>
-          <script defer src="assets/js/casa-valle.js"></script>
+          <script src="../assets/lib/jquery/jquery-3.3.1.slim.min.js "></script>
+          <script src="../assets/lib/bootstrap/js/bootstrap.min.js "></script>
+          <script defer src="../assets/js/casa-valle.js"></script>
     </body>
 </html>

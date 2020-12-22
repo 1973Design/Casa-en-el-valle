@@ -49,16 +49,16 @@
                       <div class="row">
                         <div class="col-md-12 mb-2">
                           <div class="acc-desc">
-                            <p>Het idee voor een huis in spanje is geboren uit het feit dat wij als zelfstandige een manier aan het zoeken waren om in ons pensioen te investeren. Sinds 2014 is ons plan ontstaan om een huis in het buitenland te kopen en dat te verhuren en om mogelijk uiteindelijk ons jaren te slijten.
-                            De vraag was toen alleen; Waar? Via wat omwegen zijn wij uiteindelijk in 2016 uitgekomen op de Lecrin Vallei in Andalusie. </p><p>
-                            Toen rees de vraag; en nu? Zonder enige kennis van de omgeving zijn we in de zomer van 2016 met onze kinderen voor 3 weken op vakantie geweest in de omgeving van de Lecrin Vallei. 
+                            <p>Het idee voor ons huis in spanje is geboren uit het feit dat wij als zelfstandige een manier aan het zoeken waren om in ons pensioen te investeren. Sinds 2014 is het plan ontstaan om een huis in het buitenland te kopen en dat te verhuren om mogelijk uiteindelijk ons jaren te slijten.
+                            De vraag was toen alleen; Waar? Via wat omwegen en internet struinen zijn wij uiteindelijk in 2016 uitgekomen in de Lecrin Vallei in Andalusie. </p><p>
+                            Toen de locatie bekend was rees de vraag; en nu? Zonder enige kennis van de omgeving zijn we in de zomer van 2016 met onze kinderen voor 3 weken op vakantie geweest in de omgeving van de Lecrin Vallei. 
                             Elke week hebben we een andere locatie aangedaan. Ondertussen hadden we ook contact gelegd met Danielle Gouwens, <a href="http://www.athomeinandalusia.com" target="_blank">At Home in Andalusia</a>.
-                              Na een prettig contact, via de mail, hebben we een afspraak met haar gemaakt. Danielle heeft ons een aantal huizen laten zien en daarbij ook twee stukjes grond. Deze laatste optie was nog niet bij ons opgekomen maar dit gaf ons stof om over na te denken. 
-                              Na wat wikken en wegen is onze voorkeur gevallen op het stukje grond in Melegis en hadden we besloten om in het diepe te stappen en een huis te laten bouwen. </p><p>
-                              Danielle heeft ons in het voortraject heel goed begeleid wat een pre is als je deze stap zet. 
-                              Vanaf dat moment dat de grond gekocht was, zijn we in gesprek gegaan met een spaanse archtitect, Fernando Ortega <a href="http://ocarquitectura.es/" target="_blank">OC Arquitectura</a>. Hieruit vloeide een modern ontwerp. De samenwerking met Fernando verliep erg prettig. 
+                              Na een prettig contact, via de mail, hebben we tijdens onze vakantie een afspraak met haar gemaakt. Danielle heeft ons een aantal huizen laten zien en daarbij ook twee stukjes grond. Deze laatste optie was nog niet bij ons opgekomen maar dit gaf ons stof om over na te denken. 
+                              Na wat wikken en wegen was onze voorkeur gevallen op het stukje grond in Melegis en hadden we besloten om in het diepe te stappen en een huis te laten bouwen. </p><p>
+                              Danielle heeft ons in het voortraject heel goed begeleid wat een pre is als je deze stap zet. In die zelfde tijd hebben we ook contact gelegd met een spaanse projectontwikkelaar.
+                              Vanuit dit contact zijn we in gesprek gegaan met een spaanse archtitect, Fernando Ortega <a href="http://ocarquitectura.es/" target="_blank">OC Arquitectura</a>. Hieruit vloeide een modern ontwerp. De samenwerking met Fernando verliep erg prettig. 
                               Samen met Fernando Ortega en Victor Moreno, verantwoordelijk voor de bouw, zijn we begonnen aan het bouwen van ons moderne spaanse huis op een prachtige locatie. </p><p>
-                              Halverwege 2018 is het huis opgeleverd en zijn we meerdere malen heen geweest voor de inrichting ervan, waar we uiteindelijk in de zomer van 2019 zelf vakantie hebben gevierd. 
+                              Halverwege 2018 is ons huis opgeleverd en zijn we meerdere malen heen geweest voor de inrichting ervan, waar we uiteindelijk in de zomer van 2019 zelf vakantie hebben gevierd. 
                               Hoe vaker we er kwamen, hoe meer we ons er thuis voelde. De plek geeft zoveel rust en daarnaast is de natuur fantastisch. Het voelt echt als een tweede thuis.
 Het huis heeft 5 slaapkamers(10 slaapplaatsen) en 4 badkamers, garage met tafeltennistafel en dartbord en daarnaast natuurlijk een groot zwembad en buitenkeuken. Het is dus uitermate geschikt voor vakanties met een grotere groep.</p><p> We hebben een plek gecre&euml;erd met het ultieme vakantiegevoel!  
 

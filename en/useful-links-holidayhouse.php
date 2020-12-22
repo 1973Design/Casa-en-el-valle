@@ -41,9 +41,9 @@
                     <div class="">
                       <div class="row">
                         <div class="col-md-12">
-                          <h3>Frequently ask questions</h3>
+                          <h3>Useful links</h3>
                           <p>
-                            This page is underconstruction.
+                            This page is undercontruction.
                           </p>
                         </div>
                       </div>
