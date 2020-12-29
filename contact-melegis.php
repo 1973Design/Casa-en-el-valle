@@ -54,9 +54,9 @@
                         </div>
                         <div class="col-md-4">
                             <p>
-                            <i class="far fa-envelope"></i> : info@... <br/>
+                            <i class="far fa-envelope"></i> : info@vakantie-in-andalusie.com <br/>
                             <i class="fas fa-phone"></i> : (+31) 6 123 15 925<br/>
-                            <i class="fab fa-whatsapp"></i> : <a href=""> Stuur een Whatsapp</a><br/>
+                            <i class="fab fa-whatsapp"></i> : <a href="https://wa.me/31612315925"> Stuur een Whatsapp</a><br/>
                             No RTA: VTAR/GR/02262
                             </p>
                         </div>

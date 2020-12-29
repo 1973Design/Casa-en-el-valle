@@ -117,7 +117,7 @@
                     <div class="row">
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                          <img src="../images/vakantiehuis/binnen/douche1.JPG" title="bathroom la casa en el valle">
+                          <img src="../images/vakantiehuis/binnen/douche1.png" title="bathroom la casa en el valle">
                         </div>
                       </div>
                       <div class="col-sm-3">
@@ -159,7 +159,7 @@
                       </div>
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                        <img src="../images/vakantiehuis/binnen/keuken.JPG" title="bathroom la casa en el valle">
+                        <img src="../images/vakantiehuis/binnen/keuken.jpg" title="kitchen la casa en el valle">
                         </div>
                       </div>
                     </div>
@@ -187,7 +187,7 @@
                       </div>
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                        <img src="../images/vakantiehuis/binnen/gang.JPG" title="hall la casa en el valle">
+                        <img src="../images/vakantiehuis/binnen/gang.jpg" title="hall la casa en el valle">
                         </div>
                       </div>
                     </div>

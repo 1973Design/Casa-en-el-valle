@@ -14,6 +14,7 @@
                 <li><i class="fas fa-link"></i><a href="faq-vakantiehuis.php"> FAQ</a></li>
                 <li><i class="fas fa-link"></i><a href="privacystatement.php">Privacystatement</a></li>
                 <li><i class="fas fa-link"></i><a href="useful-links-holidayhouse.php"> Usefull links</a></li>
+                <li><i class="fas fa-link"></i><a href="https://www.facebook.com/La-casa-en-el-valle-112359300171743" target="_blank"> Facebook</a></li>
             </ul>
            
         </div>

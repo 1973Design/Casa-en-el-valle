@@ -33,7 +33,7 @@ $email_body .= "Hoeveel personen: " .$question." \r\n ";
 $email_body .= "Waarin het volgende gevraagd wordt: " .$message." \r\n ";
 $email_body .= "";
     
-$to = "aministratie@polair.nl";//<== update the email address
+$to = "info@vakantie-in-andalusie.com";//<== update the email address
 $headers = "From:  $email_from \r\n";
 $headers .= "Reply-To: $visitor_email \r\n";
 //Send the email!

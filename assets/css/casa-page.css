@@ -105,37 +105,47 @@ li  a:hover, ul.contentlist li a:hover{
 
 .bg-one{
     background-image: url(http://localhost:8080/casa-en-el-valle/images/omgeving/omgeving-wandelen.png);
+  
+    
 }
 
 .bg-two{
     background-image: url(http://localhost:8080/casa-en-el-valle/images/omgeving/omgeving-granada.png);
+
 }
 .bg-three{
     background-image: url(http://localhost:8080/casa-en-el-valle/images/omgeving/omgeving-strand.png);
+   
 }
 
 .bg-four{
     background-image: url(http://localhost:8080/casa-en-el-valle/images/omgeving/omgeving-alpujarras.png);
+   
 }
 
 .bg-five{
     background-image: url(http://localhost:8080/casa-en-el-valle/images/omgeving/omgeving-lecrin-vallei.png);
+  
 }
 
 .bg-six{
     background-image: url(http://localhost:8080/casa-en-el-valle/images/omgeving/omgeving-skieen.png);
+  
 }
 
 .bg-huis-1{
     background-image: url(http://localhost:8080/casa-en-el-valle/images/vakantiehuis/omgeving-vakantiehuis-buiten.png);
+   
 }
 
 .bg-huis-2{
     background-image: url(http://localhost:8080/casa-en-el-valle/images/vakantiehuis/omgeving-vakantiehuis-binnen.png);
+   
 }
 
 .bg-huis-3{
     background-image: url(http://localhost:8080/casa-en-el-valle/images/vakantiehuis/omgeving-vakantiehuis-bouw.png);
+   
 }
 
 #omgeving .omgeving-container-parent .omgeving-child a {

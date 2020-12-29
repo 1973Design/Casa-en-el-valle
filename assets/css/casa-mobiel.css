@@ -1,6 +1,7 @@
 /** mobile wijzigingen **/
 
 @media screen and (max-width: 576px) {
+   
 
     .navbar-fixed-top{
         left:0;
@@ -20,12 +21,63 @@
     margin-bottom: 0em;
 }
 
-input, select, textarea{
+    input, select, textarea{
     width: 100%;
  
 }
 
-table{
+    table{
     width: 100%;
-}
+    }
+
+    #omgeving .omgeving-container-parent .omgeving-child{
+        height: 100%;
+        width: 100%;
+        background-size: scroll;
+        z-index:-10;
+        background:#efa25e;
+    }
+
+    .bg-one{
+        background:url(http://www.vakantie-in-andalusie.com/images/omgeving/omgeving-wandelen.png) 100% !important;
+        
+    }
+    
+    .bg-two{
+        background: url(http://www.vakantie-in-andalusie.com/images/omgeving/omgeving-granada.png) 100% !important;
+    
+    }
+    .bg-three{
+        background: url(http://www.vakantie-in-andalusie.com/images/omgeving/omgeving-strand.png) 100% !important;
+        
+    }
+    
+    .bg-four{
+        background: url(http://www.vakantie-in-andalusie.com/images/omgeving/omgeving-alpujarras.png) 100% !important;
+        background-size: cover;
+    }
+    
+    .bg-five{
+        background: url(http://www.vakantie-in-andalusie.com/images/omgeving/omgeving-lecrin-vallei.png) 100% !important;
+        background-size: cover;
+    }
+    
+    .bg-six{
+        background: url(http://www.vakantie-in-andalusie.com/images/omgeving/omgeving-skieen.png) 100% !important;
+          }
+    
+    .bg-huis-1{
+        background: url(http://www.vakantie-in-andalusie.com/images/vakantiehuis/omgeving-vakantiehuis-buiten.png) 100% !important;
+        background-size: cover;
+    }
+    
+    .bg-huis-2{
+        background: url(http://www.vakantie-in-andalusie.com/images/vakantiehuis/omgeving-vakantiehuis-binnen.png)100% !important;
+        background-size: cover;
+    }
+    
+    .bg-huis-3{
+        background: url(http://www.vakantie-in-andalusie.com/images/vakantiehuis/omgeving-vakantiehuis-bouw.png)100% !important;
+        background-size: cover;
+    }
 }

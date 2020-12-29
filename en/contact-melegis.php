@@ -54,9 +54,9 @@
                         </div>
                         <div class="col-md-4">
                             <p>
-                            <i class="far fa-envelope"></i> : info@... <br/>
+                            <i class="far fa-envelope"></i> : info@vakantie-in-andalusie.com <br/>
                             <i class="fas fa-phone"></i> : (+31) 6 123 15 925<br/>
-                            <i class="fab fa-whatsapp"></i> : <a href=""> Send a Whatsapp</a><br/>
+                            <i class="fab fa-whatsapp"></i> : <a href="https://wa.me/31612315925">Send a Whatsapp</a><br/>
                             </p>
                         </div>
                         <div class="col-md-4">
