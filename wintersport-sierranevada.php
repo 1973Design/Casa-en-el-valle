@@ -44,10 +44,10 @@
                         <p class="small"><a href="omgeving-lecrin-granada.php"> << Omgeving en activiteiten</a></p>
                           <h3>Wintersport</h3>
                           <p>Wist je dat je in de Sierra Nevada in de wintermaanden kunt skieen? En wat is er leuker dan een dag aan de kust combineren met een dag in de sneeuw.
-                            Het dorp Pradollano(2100 m) ligt op 1 uur rijden van <strong>La Casa en el Valle</strong>. Wanneer je in het dorp bent bevindt je, je een een waar ski-oort. Uit 
-                            eigen ervaring kunnen wij, als ervaren skieers/snowboarders, zeggen dat het zeer de moeite waard is. Met 107 km aan piste doet het gebied niet af aan de plekken
-                            in de alpen. Daarnaast is het een sneeuw zeker resort met de hoogste piek op 3300 meter. Er zijn in totaal 124 skipiste: 19 groene, 41 blauwe, 50 rode en 7 zwarte. In totaal
-                            107 km sneeuwplezier. het skiseizoen begint eind november en gaat door tot de eerste week van mei. In Pradollano zijn veel winkels voor ski- en snowboardverhuur en er zijn tal
+                            Het dorp Pradollano(2100 m) ligt op 1 uur rijden van <strong>La Casa en el Valle</strong>. Wanneer je in het dorp bent bevind je, je een een waar ski-oort. Uit 
+                            eigen ervaring kunnen wij, als ervaren skieers/snowboarders, zeggen dat het gebied zeer de moeite waard is. Met 107 km aan piste doet het gebied niet te kort ten opzichte van andere plekken,
+                            zoals de alpen. Daarnaast is het een sneeuw zeker resort met de hoogste piek op 3300 meter. Er zijn in totaal 124 skipiste: 19 groene, 41 blauwe, 50 rode en 7 zwarte. In totaal
+                            voldoende kilometers sneeuwplezier. Het skiseizoen begint eind november en gaat door tot de eerste week van mei. In Pradollano zijn veel winkels voor ski- en snowboardverhuur en er zijn tal
                             van ski- en snowboardscholen. Hieronder hebben we wat informatie opgesomd.
 
                             <ul class="contentlist">

@@ -11,16 +11,16 @@
                 <a class="nav-link" href="la-casa-en-el-valle.php">La casa</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link dropdown" href="omgeving-lecrin-granada.php">Surroundings and activities</a>
+                <a class="nav-link dropdown" href="surroundings-and-activities-granada.php">Surroundings and activities</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="bereikbaarheid-melegis.php">Accessibility</a>
+                <a class="nav-link" href="accessibility-melegis.php">Accessibility</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="prijzen-en-beschikbaarheid.php">Prices and availability</a>
+                <a class="nav-link" href="prices-and-availability.php">Prices and availability</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="actueel-nieuws-andalusie.php">Tips</a>
+                <a class="nav-link" href="actual-news-andalusie.php">Tips</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="contact-melegis.php">Contact</a>

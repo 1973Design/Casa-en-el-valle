@@ -44,7 +44,7 @@
                     <p class="small"><a href="omgeving-lecrin-granada.php"> << Omgeving en activiteiten</a></p>
                       <h3>Alpujarras</h3>
                       <p>
-                          De Alpujarras bevindt zich aan de zuidflank van de Sierra Nevada. Vanuit <strong>La Casa en el Valle</strong> kan je dit berggebied zien. Het landschap wordt gekenmerkt
+                          De Alpujarras bevinden zich aan de zuidflank van de Sierra Nevada. Vanuit <strong>La Casa en el Valle</strong> kan je dit berggebied zien. Het landschap wordt gekenmerkt
                           door de vruchtbare dalen en indrukwekkende bergen in een rustige en authentieke omgeving. Vanwege het constante smeltwater is er ook sprake van een groen landschap die rijk 
                           aan flora en fauna is. In Alpujarras zijn er tal mogelijkheden om te wandelen. Van eenvoudige trajecten tot moeilijke.
                           Het klimaat van de Alpujarra kent vanwege zijn hoogteverschillen grote contrasten. De zomers zijn warm en droog maar extreme hitte zoals in andere gebieden 
@@ -86,7 +86,7 @@
                         <div class="card-body">
                           <h3>Trev&#233;lez</h3>
                           <p class="card-text">Trev&#233;lez, het hoogste dorp in Spanje,  bestaat uit drie wijken,waarvan de hoogste op 1600 meter ligt. Het dorp ligt in de Alpujarras, in het droge klimaat van de Sierra Nevada. 
-                            Het is de  ideale locatie voor het drogen en rijpen van Serrano hammen.  Er is dan ook geen huis in het dorp waar geen hammen hangen  te drogen.</p>
+                            Het is de  ideale locatie voor het drogen en rijpen van serrano hammen.  Er is dan ook geen huis in het dorp waar geen hammen hangen  te drogen.</p>
                              
                         </div>
                       </div>

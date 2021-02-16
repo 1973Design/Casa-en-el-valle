@@ -5,10 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="">
         <meta name="author" content="">
-        <script defer src="assets/lib/fontawesome/js/all.js"></script>
-        <script defer scr="assets/js/calendar.js"></script>
+        <script defer src="../assets/lib/fontawesome/js/all.js"></script>
+        <script defer scr="../assets/js/calendar.js"></script>
  
-        <link rel="stylesheet" href="assets/css/style.css" />
+        <link rel="stylesheet" href="../assets/css/style.css" />
         <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,500;1,400;1,500&family=Roboto&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,500;1,400;1,500&family=Montserrat:wght@300;400;500;600&family=Roboto&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Roboto&display=swap" rel="stylesheet">
@@ -31,7 +31,7 @@
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                   <div class="carousel-inner">
                     <div class="carousel-item active">
-                      <img class="d-block w-100" src="images/beschikbaarheid/lecrin-vallei-beschikbaarheid.png" alt="Beschikbaarheid van het vakantiehuis">
+                      <img class="d-block w-100" src="../images/beschikbaarheid/lecrin-vallei-beschikbaarheid.png" alt="Beschikbaarheid van het vakantiehuis">
                     </div>
                   </div>
               </div>
@@ -44,16 +44,17 @@
                     <div class="">
                       <div class="row">
                         <div class="col-md-12">
-                          <h3>Beschikbaarheid en prijzen</h3>
+                          <h3>Availability and prices</h3>
                         </div>
                       </div>
                       <div class="row">
                         <div class="col-md-12 mb-2">
                           <div class="acc-desc">
-                            <h4>Beschikbaarheid</h4>
-                            <p><strong>La casa en el valle</strong> is het gehele jaar te huren. Het huis bevat 5 slaapkamers met in elke slaapkamer 2 bedden. Daarnaast zijn er 4 badkamers aanwezig. Keuken is voorzien van luxe apparatuur. Het huis is voorzien van vloerkoeling en verwarming en er is ook een hoogrendement kachel aanwezig in de woonkamer.
-                            Er is op 2 plaatsen een ruim terras aanwezig en groot zwembad. Daarmee is het huis geschikt voor groepen van 6,8 of 10 mensen maar minder is natuurlijk ook mogelijk. 
-                             Aangezien wij op meerdere websites adverteren vragen wij het onderstaande formulier in te vullen zodat we de beschikbaarheid kunnen checken. Wij nemen dan z.s.m. contact met u op.</p>
+                            <h4>Availability</h4>
+                            <p>
+<strong> La casa en el valle </strong> can be rented all year round. The house contains 5 bedrooms with 2 beds in each bedroom. In addition there are 4 bathrooms. Kitchen is equipped with luxury equipment. The house is equipped with underfloor cooling and heating and there is also a high-efficiency stove in the living room.
+                            There is a spacious terrace in 2 places and large swimming pool. This makes the house suitable for groups of 6, 8 or 10 people but less is of course also possible.
+                             Since we advertise on several websites we ask you to fill in the form below so that we can check availability. We will contact you as soon as possible. </p>
                           </div>
                         </div>
                       </div>
@@ -69,21 +70,21 @@
                       <div class="col-sm-4">
                         <div class="omgeving-container-parent first">
                           <div class="omgeving-child bg-huis-1">
-                            <a href="vakantiehuis-buiten.php" class="vakantiehuis buiten">Een kijkje buiten</a>
+                            <a href="vakantiehuis-buiten.php" class="vakantiehuis buiten">A look outside</a>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-4">
                         <div class="omgeving-container-parent first">
                           <div class="omgeving-child bg-huis-2">
-                            <a href="vakantiehuis-binnen.php" class="vakantiehuis binnen">Een kijkje binnen</a>
+                            <a href="vakantiehuis-binnen.php" class="vakantiehuis binnen">A look inside</a>
                           </div>
                         </div>
                       </div>
                       <div class="col-sm-4">
                         <div class="omgeving-container-parent first">
                           <div class="omgeving-child bg-huis-3">
-                            <a href="vakantiehuis-bouw.php" class="het huis in aanbouw">Hoe het begon</a>
+                            <a href="vakantiehuis-bouw.php" class="het huis in aanbouw">How it started</a>
                           </div>
                         </div>
                       </div>
@@ -99,22 +100,20 @@
                     <div class="">
                       <div class="row">
                         <div class="col-md-12">
-                          <h4>Prijzen</h4>
+                          <h4>Prices</h4>
                         </div>
                       </div>
                       <div class="row">
                         <div class="col-md-12 mb-2">
                           <div class="acc-desc">
-                            <p>Wij verhuren per week. U kunt natuurlijk altijd korter blijven maar kosten worden per week verrekend. Wij hanteren 3 prijsklassen, hoog-, midden- en laagseizoen. 
-                              De prijs is inclusief 1x schoonmaak, beddengoed en 1 set douchhanddoeken per persoon. Afhankelijk van het aantal personen zal 1 &agrave; 2 keer per week het zwembad worden schoongemaakt en de watergesteldheid gecheckt.
-                              Mocht er behoefte zijn aan een tussentijdse schoonmaak of nieuw beddengoed/handdoeken dan kan dat in overleg tegen een meer prijs worden geregeld. Bekijk hiervoor de <a href="docs/huisregels-nl.pdf">huisregels</a>.
+                            <p>We rent per week. You can of course always stay shorter, but costs will be charged per week. We use 3 price ranges; high, medium and low season.
+                              The price includes cleaning, bed linen and 1 set of shower towels per person. Depending on the number of people, the swimming pool will be cleaned and the water condition checked 1 to 2 times a week. 
+                              If there is a need for an interim cleaning or new bed linen / towels this can be arranged in consultation at an additional price. 
                             <br/>
-                            <h5>Tarieven per week</h5>
-                            Hoogseizoen tarief: &euro; 1500-, ( tot 8 personen), &euro; 1600-,(10 personen)<br>
-                            Middenseizoen tarief: &euro; 1200-,<br/>
-                            Laagseizoen tarief: &euro; 900-,<br/>
-
-
+                            <h5>Rates per week</h5>
+                            High season rate: &euro; 1500-, ( till 8 persons), &euro; 1600-,(10 persons)<br>
+                            Mid season rate: &euro; 1200-,<br/>
+                            Low season rate: &euro; 900-,<br/>
                             </p>
                           </div>
                         </div>
@@ -204,8 +203,8 @@
       </main>
 
           <!-- Bootstrap core JavaScript -->
-          <script src="assets/lib/jquery/jquery-3.3.1.slim.min.js "></script>
-          <script src="assets/lib/bootstrap/js/bootstrap.min.js "></script>
-          <script defer src="assets/js/casa-valle.js"></script>
+          <script src="../assets/lib/jquery/jquery-3.3.1.slim.min.js "></script>
+          <script src="../assets/lib/bootstrap/js/bootstrap.min.js "></script>
+          <script defer src="../assets/js/casa-valle.js"></script>
     </body>
 </html>

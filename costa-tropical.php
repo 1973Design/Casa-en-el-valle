@@ -59,7 +59,7 @@
                         <div class="card-body">
                             <h3>Playa Granada</h3>
                             <p class="card-text">
-                              Playa Granada is vanuit <strong> La Casa en el Valle</strong> het dichtsbijzijnde strand. Het is hier rustig maar er zijn verschillende strandtenten en gelegeheid om 
+                              Playa Granada is vanuit <strong> La Casa en el Valle</strong> het dichtsbijzijnde strand. Het is hier rustig maar er zijn verschillende strandtenten en gelegenheid om 
                               watersport te beoefenen.
                             </p>
                              
@@ -73,7 +73,7 @@
                         <div class="card-body">
                           <h3>Salobre&#241;a</h3>
                           <p class="card-text">Salobre&#241;a ligt rechts van Motril. Het is een klein gemoedelijk badplaatsje. Op het strand bevinden zich een paar leuke visrestaurants maar mocht je niet van
-                            vis houden zijn er ook genoeg alternatieven. De jeugd springt hier graag van de rots af die voor een deel in het water ligt. Ook is een wandeling naar het Arabisch kasteel is de moeite waard.
+                            vis houden zijn er ook genoeg alternatieven. De jeugd springt hier graag van de rots af die voor een deel in het water ligt. Ook is een wandeling naar het arabisch kasteel is de moeite waard.
                           </p>
                         </div>
                       </div>
@@ -83,7 +83,7 @@
                         <img class="card-img-top" src="images/omgeving/strand/almunecar.JPG" alt="Almunecar costa tropical">
                         <div class="card-body">
                           <h3>Almu&#241;&#233;car</h3>
-                          <p class="card-text">Almu&#241;&#233;car is de eerste stad badplaats. Je vindt er een brede boulevard langs het uitgestrekte strand met verschillende strandpaviljoens, terrasjes en uitstekende restaurants. 
+                          <p class="card-text">Almu&#241;&#233;car is de eerste stadbadplaats. Je vind er een brede boulevard langs het uitgestrekte strand met verschillende strandpaviljoens, terrasjes en uitstekende restaurants. 
                             In de oude binnenstad zijn de Moorse invloeden duidelijk zichtbaar met nauwe straatjes en resten van de Moorse vesting.</p>
                              
                         </div>

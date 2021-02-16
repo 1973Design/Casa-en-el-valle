@@ -82,7 +82,7 @@
                       </div>
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                        <img src="images/vakantiehuis/bouw/bouw1.JPG" title="bouw casa en el valle">
+                        <img src="images/vakantiehuis/bouw/bouw1.jpg" title="bouw casa en el valle">
                         </div>
                       </div>
                     </div>
@@ -109,7 +109,7 @@
                       </div>
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                        <img src="images/vakantiehuis/bouw/bouw5.JPG" title="bouw casa en el valle">
+                        <img src="images/vakantiehuis/bouw/bouw5.jpg" title="bouw casa en el valle">
                         </div>
                       </div>
                     </div>
@@ -120,22 +120,22 @@
                     <div class="row">
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                          <img src="images/vakantiehuis/bouw/bouw6.JPG" title="bouw casa en el valle">
+                          <img src="images/vakantiehuis/bouw/bouw6.jpg" title="bouw casa en el valle">
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                        <img src="images/vakantiehuis/bouw/bouw7.JPG" title="bouw casa en el valle">
+                        <img src="images/vakantiehuis/bouw/bouw7.jpg" title="bouw casa en el valle">
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                        <img src="images/vakantiehuis/bouw/bouw8.JPG" title="bouw casa en el valle">
+                        <img src="images/vakantiehuis/bouw/bouw8.jpg" title="bouw casa en el valle">
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                        <img src="images/vakantiehuis/bouw/bouw9.JPG" title="bouw casa en el valle">
+                        <img src="images/vakantiehuis/bouw/bouw9.jpg" title="bouw casa en el valle">
                         </div>
                       </div>
                     </div>
@@ -147,22 +147,22 @@
                     <div class="row">
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                          <img src="images/vakantiehuis/bouw/bouw10.JPG" title="bouw casa en el valle">
+                          <img src="images/vakantiehuis/bouw/bouw10.jpg" title="bouw casa en el valle">
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                        <img src="images/vakantiehuis/bouw/bouw11.JPG" title="bouw casa en el valle">
+                        <img src="images/vakantiehuis/bouw/bouw11.jpg" title="bouw casa en el valle">
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                        <img src="images/vakantiehuis/bouw/bouw12.JPG" title="bouw casa en el valle">
+                        <img src="images/vakantiehuis/bouw/bouw12.jpg" title="bouw casa en el valle">
                         </div>
                       </div>
                       <div class="col-sm-3">
                         <div class="omgeving-container-parent first">
-                        <img src="images/vakantiehuis/bouw/bouw13.JPG" title="bouw casa en el valle">
+                        <img src="images/vakantiehuis/bouw/bouw13.jpg" title="bouw casa en el valle">
                         </div>
                       </div>
                     </div>

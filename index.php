@@ -123,15 +123,15 @@
                       <div class="row">
                         <div class="col-md-6 mb-2">
                           <div class="acc-desc">
-                            <p><strong>La Casa en el Valle</strong> is gelegen in het authentieke Spaanse dorpje Melegis in de Lecrin Vallei. Je kunt hier volop genieten van de rust. Wil je toch wat meer drukte opzoeken dan kan je talloze uitstapjes maken naar bijvoorbeeld de Aplujarras in de Sierra Nevada, het strand en de 
-                            stad Granada. Dit alles bereikbaar in 30 minuten rijden. <strong>La Casa en el Valle</strong> is de ideale uitvalsbasis voor een fantastische vakantie met voor elk wat wils.
+                            <p><strong>La Casa en el Valle</strong> is gelegen in het authentieke spaanse dorpje Melegis in de Lecrin Vallei. Je kunt hier volop genieten van de rust en natuur. Wil je toch wat meer drukte opzoeken dan kan je talloze uitstapjes maken naar bijvoorbeeld de Alpujarras in de Sierra Nevada, het strand en de 
+                            stad Granada. Dit alles is bereikbaar binnen 30 minuten rijden. <strong>La Casa en el Valle</strong> is de ideale uitvalsbasis voor een fantastische vakantie met voor elk wat wils.
                             Het huis bevat alle faciliteiten die je wenst voor een perfecte vakantie. 
                          </p>
                           </div>
                           </div>
                         <div class="col-md-6 mb-2">
                           <div class="acc-desc">
-                            <p><strong>De Lecrin Vallei</strong>, is gelegen onder Granada ten westen van de Sierra Nevada. Een rustige en ongerepte groen vallei, met diverse authentieke Spaanse witte dorpjes. Je kunt er heerlijk wandelen
+                            <p><strong>De Lecrin Vallei</strong>, is gelegen onder Granada ten westen van de Sierra Nevada. Een rustige en ongerepte groen vallei, met diverse authentieke spaanse witte dorpjes. Je kunt er heerlijk wandelen
                                 langs de sinasappel- en citroenbomen. En genieten van de spectaculaire uitzichten over het meer van Beznar en de toppen van de Sierra Nevada.  </p>
                           </div>
                         </div>
@@ -153,7 +153,7 @@
                     <div class="tab-content" id="nav-tabContent">
                       <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab"><img src="images/algemeen/Lecrin_vallei-Granada-andalusie.png" width="50%"></div>
                       <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-                          <p>De Lecrin Vallei bestaat uit een aantal dorpjes genaamd Talara, Mondujar, El Chite, Tablate, Melegis, Restabal, Pinos del valle, Salares, Conchar en Cozvijar. Dit is zijn authentieke spaanse dorpjes
+                          <p>De Lecrin Vallei bestaat uit een aantal dorpjes genaamd Talara, Mondujar, El Chite, Tablate, Melegis, Restabal, Pinos del Valle, Salares, Conchar en Cozvijar. Dit zijn authentieke spaanse dorpjes
                               waar je het echte Andalusie beleeft. De Lecrin Vallei is een uitvalbasis voor een dagje strand, wandelen in de bergen van de Aplujarras en cultuursnuiven in de stad Granada. Terugkomend in Melegis
                               waan je, je in een oase van rust.
 
