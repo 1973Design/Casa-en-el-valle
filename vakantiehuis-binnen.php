@@ -6,7 +6,6 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <script defer src="assets/lib/fontawesome/js/all.js"></script>
-        <script defer scr="assets/js/calendar.js"></script>
  
         <link rel="stylesheet" href="assets/css/style.css" />
         <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,500;1,400;1,500&family=Roboto&display=swap" rel="stylesheet">
